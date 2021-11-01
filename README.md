@@ -1,3 +1,3 @@
-# Triple-Cross-domain-Attention-on-Human-Activity-Recognition-Using-Wearable-Sensors
+# Triple-Cross-domain-Attention-for-HAR
 
 More details is coming.
